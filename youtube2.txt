@@ -1,0 +1,9 @@
+The screenshot shows a YouTube web page with the following layout:
+
+Header: At the top, there is the YouTube logo on the left and the search bar on the right, which is typical for YouTube's web interface.
+Navigation Bar: Below the header, there is a navigation bar with links to different sections of the website such as "Home," "Explore," "Library," and "Account."
+Main Content: The main content area of the page is divided into two sections:
+	On the left, there is a video player showing a scene from a TV show, with the title "Charlie and Joey have Nothing in Common | Friends" and the channel name "Friends TV Funny." Below the video player, there are various buttons and indicators such as the number of views, the number of likes and dislikes, and the video's age rating.
+	On the right, there is a sidebar with additional content related to the video. This includes a list of related videos, which are thumbnails with titles and are typically related to the content of the main video.
+Reference Section: Below the main content area, there is a section with a heading that seems to be related to the content of the video, but the specific details are not fully visible in the screenshot.
+Footer: At the bottom of the page, there is a footer with links to the YouTube community guidelines, terms of service, and privacy policy, as well as a "Legal" button, which likely leads to more detailed legal information.
